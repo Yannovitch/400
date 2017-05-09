@@ -99,7 +99,6 @@ p{
 	text-align:center;
 	background:url(../img/super400.jpg) center center no-repeat;
     background-size:cover;
-    height: ;
 	padding:0 0;
 }
 .logo{
@@ -113,6 +112,11 @@ p{
 	letter-spacing: -1px;
 	margin:0 0 22px 0 ;
 	color:darkgrey;
+}
+
+.header h3{
+    color:darkgrey;
+    font-weight: bold;
 }
 
 .we-create{

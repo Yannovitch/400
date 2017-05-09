@@ -97,8 +97,10 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/pw_maze_black_2X.png) left top repeat;
-	padding:280px 0;
+	background:url(../img/super400.jpg) center center no-repeat;
+    background-size:cover;
+    height: ;
+	padding:0 0;
 }
 .logo{
 	width:100px;
@@ -110,7 +112,7 @@ p{
 	font-weight:400;
 	letter-spacing: -1px;
 	margin:0 0 22px 0 ;
-	color:#fff;
+	color:darkgrey;
 }
 
 .we-create{
@@ -493,11 +495,11 @@ border: 2px solid #fff;
 /* Team
 ---------------------------------*/
 .team-leader-block{
-	max-width:993px;
+	max-width:331px;
 	margin:0 auto;
 }
 .team-leader-box{
-	width:30.66%;
+	width:100%;
 	margin-right: 3.82979%;
 	height: 490px;
 	overflow: hidden;
@@ -581,11 +583,8 @@ border: 2px solid #fff;
 .team-leader ul li a.fa-facebook:hover{
 	color:#3b5998;
 }
-.team-leader ul li a.fa-pinterest:hover{
+.team-leader ul li a.fa-rss:hover{
 	color:#cb2026;
-}
-.team-leader ul li a.fa-google-plus:hover{
-	color:#dd4b39;
 }
 
 /* Talk Business
